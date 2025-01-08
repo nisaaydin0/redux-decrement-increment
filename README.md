@@ -4,12 +4,12 @@ Redux Toolkit Counter App
 
 <hr/>
 
-<hr/>
 
 This is a simple counter application built with React and Redux Toolkit. 
 
 It demonstrates the use of Redux for state management, including actions, reducers, and a store.
 
+<hr/>
 
 Features
 
@@ -25,6 +25,7 @@ State management powered by Redux Toolkit.
 
 Modular code structure with reusable slices and components.
 
+<hr/>
 
 Usage
 
@@ -36,6 +37,7 @@ Click the - button to decrement the counter.
 
 Monitor the counter value, which updates in real-time using Redux Toolkit.
 
+<hr/>
 
 Technologies Used
 
